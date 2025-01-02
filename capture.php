@@ -12,7 +12,7 @@
 ?>
 
 <!-- <img src="./assets/vadivelu_funny.jpg" alt="">-->
-<h1> your password has been captured </h1>
+<h1> login successful </h1>
 
 <?php
 
